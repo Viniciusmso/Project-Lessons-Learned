@@ -65,3 +65,20 @@ main{
     text-decoration: none;
     
 }
+#section-list{
+    padding: 0px 10px 10px 10px ;
+    border: solid 1px black;
+    border-radius: 0px 100px 20px 0px;
+    background-color: rgba(0, 0, 0, 0.843);
+    width: 350px;
+}
+#section-list > h2{
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
+#licoes_aprendidas, #licoes_a_aprender{
+    display: inline-block;
+
+    color: white;
+}
