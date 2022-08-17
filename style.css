@@ -4,3 +4,22 @@
 body{
     background-color: rgb(253, 251, 251);
 }
+#cabecalho{
+    position:fixed;
+    top: 0px;
+    background-color: greenyellow;
+    width: 100%;
+    height: 100px;
+    text-align: center;}
+#navegacao{
+    position: fixed;
+    top: 65px;
+}
+#list-nav{
+    margin: 0px;
+    padding: 0px;
+}
+.buttom-nav{
+    display: inline-block;
+    margin-left: 20px;
+}              
