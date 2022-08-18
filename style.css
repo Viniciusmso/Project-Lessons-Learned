@@ -8,7 +8,6 @@ main{
     margin: 0px 20px;
     box-shadow: 0px 3px 6px black;
     margin-top: 100px;
-   
 }
 #cabecalho{
     position:fixed;
@@ -36,49 +35,46 @@ main{
 }
 #article-foto{
     background-color: rgba(0, 0, 0, 0.534);
-    border-radius: 0px 0px 100px 0px ;
-    width: 350px;
-    padding: 20px 0px 0px 20px;
-
-}
-#picture-foto{
-    display: block;
-
 }
 #minha_foto{
-    border-radius: 60px 100px 100px 0px;
     width: 270px;
     height: 340px;
-    display:block;
-  
-    box-shadow: 12px -4px 22px black;
+    display: block;
+    box-shadow: 2px 0px 9px black;
+    
 }
-#article-foto > p{
+#name{
+    position: absolute;
+    right: 142px;
+    top: 220px;
+    color: white;
+    font-size: 3.5em;
+    text-decoration: none;
+}
+#sub-text{
+    position: absolute;
+    right: 148px;
+    top: 297px;
     color: white;
     font-size: 1.0em;
     padding-bottom: 5px;
     padding-top: 5px;
 }
-#article-foto > p > a{
-    color: white;
-    font-size: 1.5em;
-    text-decoration: none;
-    
-}
-#section-list{
+#lado-direito{
     padding: 0px 10px 10px 10px ;
     border: solid 1px black;
-    border-radius: 0px 100px 20px 0px;
+    border-radius: 0px 0px 00px 30px;
     background-color: rgba(0, 0, 0, 0.843);
-    width: 350px;
+    float: right;
+   
 }
-#section-list > h2{
+#lado-direito > h2{
     padding: 10px;
     text-align: center;
     color: white;
 }
 #licoes_aprendidas, #licoes_a_aprender{
     display: inline-block;
-
     color: white;
+    
 }
