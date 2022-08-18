@@ -85,8 +85,8 @@ main {
   color: white;
 }
 
-#licoes_aprendidas ,
-#licoes_a_aprender {
+#licoes_aprendidas
+, #licoes_a_aprender {
   display: inline-block;
   color: white;
 }
@@ -98,9 +98,9 @@ main {
   border: solid 5px gray;
 }
 
-.lado-direito,
- .lado-esquerdo,
- #tabela {
+.lado-direito
+, .lado-esquerdo
+, #tabela {
   display: inline-block;
   width: 500px;
   border: solid 1px gray;
