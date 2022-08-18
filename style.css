@@ -91,7 +91,7 @@ main {
   color: white;
 }
 
-#textos{
+#textos {
     padding: 4px;
     font-family: monospace;
     line-height: 1.5;
@@ -100,7 +100,7 @@ main {
 
 .lado-direito,
 .lado-esquerdo,
-#tabela{
+#tabela {
   display: inline-block;
   width: 500px;
   border: solid 1px gray;
