@@ -82,7 +82,7 @@ main{
 #licoes_a_aprender{
     padding-left: 80px;
 }
-#section-aprendizado, #article-descricao{
+#section-aprendizado, .article-descricao{
     font-family: monospace;
     padding: 5px;
     display:inline;
