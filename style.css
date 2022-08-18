@@ -98,9 +98,9 @@ main {
   border: solid 5px gray;
 }
 
-.lado-direito ,
-.lado-esquerdo ,
-#tabela {
+.lado-direito,
+ .lado-esquerdo,
+ #tabela {
   display: inline-block;
   width: 500px;
   border: solid 1px gray;
