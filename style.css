@@ -70,6 +70,7 @@ main{
     border-radius: 0px 0px 00px 30px;
     background-color: rgb(0, 0, 0);
     float: right;
+
    
 }
 #lado-direito > h2{
@@ -82,8 +83,22 @@ main{
     color: white;
     
 }
-#article-artigo > p{
-    border: solid 1px black;
-    padding: 20px 10px;
+#article-artigo , h3{
     font-family: monospace;
-}   
+    width: 60%;
+    padding: 5px;
+}
+aside , aside > h3{
+    padding: 5px;
+    font-family: monospace;
+    width: 63%;
+    padding: 5px;
+} 
+footer{
+    background-color: rgba(0, 0, 0, 0.837);
+    height: 30px;
+    text-align: center;
+    color: white;
+    padding-top: 10px;
+    font-family: monospace;
+}
