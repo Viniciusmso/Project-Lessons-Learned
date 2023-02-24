@@ -17,7 +17,10 @@ This application was built with HTML code, positioning and CSS stylization.
     <summary><strong>Como rodar a aplicação ⏯️</strong></summary><br />
 
 1. No terminal, clone o projeto:
-    - git clone git@github.com:Viniciusmso/Project-Lessons-Learned.git
+    -  ```bash
+    git clone (git@github.com:Viniciusmso/Project-Lessons-Learned.git)
+    ```
+   
 2. Entre na pasta do projeto:
     - cd Project-Lessons-Learned
 3. Instale as dependências:
