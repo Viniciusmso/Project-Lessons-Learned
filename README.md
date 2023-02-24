@@ -17,7 +17,7 @@ This application was built with HTML code, positioning and CSS stylization.
     <summary><strong>Como rodar a aplicação ⏯️</strong></summary><br />
 
 1. No terminal, clone o projeto:
-    -  ```bash
+    ```bash
     git clone (git@github.com:Viniciusmso/Project-Lessons-Learned.git)
     ```
    
