@@ -22,11 +22,19 @@ This application was built with HTML code, positioning and CSS stylization.
     ```
    
 2. Entre na pasta do projeto:
-    - cd Project-Lessons-Learned
+    ```bash
+    cd Project-Lessons-Learned
+    ```
+
 3. Instale as dependências:
- - npm install.
+   ```bash
+    npm install.
+    ```
+
 4. Na pasta, abra o arquivo:
- - index.html
+    ```bash
+    index.html
+    ```
 
  </details>
 
